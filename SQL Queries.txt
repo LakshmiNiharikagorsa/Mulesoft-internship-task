@@ -1,0 +1,4 @@
+* connect system/admin;
+* create table movies(name varchar(50), actor varchar(20), actress varchar(20), director varchar(20), year_of_release varchar(6));
+* insert into movies(name, actor, actress, director, year_of_release) values ('Arya', 'Allu Arjun', 'Anu Mehta', 'Sukumar', '2004');
+* Like that insert more data into movies table.
