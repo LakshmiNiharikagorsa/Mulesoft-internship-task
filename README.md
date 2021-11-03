@@ -8,7 +8,8 @@ Task I performed during this screening process is -
             * Written a program to issue a simple SELECT statement to query all rows from the Movies table
             * As well as use a query with parameter like actor name to select movies based on the actor's name.
 
-Outputs of this Task are:
+## Outputs of this Task are:
+
 ![image](https://user-images.githubusercontent.com/68914280/140058322-a0dce5c2-6a4c-4832-afee-5f8eeefca128.png)
 
 ![image](https://user-images.githubusercontent.com/68914280/140058374-f1788a1d-40de-41ee-a680-adcc799347e3.png)
