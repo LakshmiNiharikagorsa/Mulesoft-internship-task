@@ -5,8 +5,8 @@ Task I performed during this screening process is -
   * To connect to mysql database using JDBC
   * Created a new table of movies where inserted data of my desired movie names with the names of lead actor, actress, year of release and the director name.
   * Later stage of this process queried to retrive the data using Java as language connecting to mysql database.
-            * Written a program to issue a simple SELECT statement to query all rows from the Movies table
-            * As well as use a query with parameter like actor name to select movies based on the actor's name.
+  * Written a program to issue a simple SELECT statement to query all rows from the Movies table
+  * As well as use a query with parameter like actor name to select movies based on the actor's name.
 
 ## Outputs of this Task are:
 
