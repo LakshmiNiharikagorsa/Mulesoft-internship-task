@@ -13,6 +13,6 @@ Outputs of this Task are:
 
 ![image](https://user-images.githubusercontent.com/68914280/140058374-f1788a1d-40de-41ee-a680-adcc799347e3.png)
 
-![image](https://user-images.githubusercontent.com/68914280/140058480-3d72da5d-53ce-4412-89cc-7ea59541ebbc.png)
+![image](https://user-images.githubusercontent.com/68914280/140058692-ab30d825-896d-43a6-af63-abbaabed44fb.png)
 
 ![image](https://user-images.githubusercontent.com/68914280/140058541-f4b1de37-d619-4df5-b54c-e452e453b087.png)
